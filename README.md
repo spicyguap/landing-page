@@ -1,0 +1,1 @@
+Landing page project done for The Odin Project.
